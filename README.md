@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ML and Robotics
 - 💞️ I’m looking to collaborate on anythibg thay peaks my interest
 - 📫 How to reach me alexandermbryan@gmail.com
-- 😄 Pronouns: he/they
-- ⚡ Fun fact: I made LightLib
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I don't have a spacebar.
 
 <!---
 AlexBryan1/AlexBryan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
